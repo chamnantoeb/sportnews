@@ -1,0 +1,29 @@
+-create new folder "SportNews" in path (C:\wamp\www)
+-admin
+   -index.php
+   -config.php
+   -login.php
+   -lib
+   -pages
+     -users
+       -index.php
+       -edit.php
+       -create.php
+   -templet
+   -assets
+     -js
+     -css
+     -fonts
+     -images
+-index.php
+-config.php
+-assets
+  -js
+  -css
+  -fonts
+  -images
+-templet
+  -header.php
+  -footer.php
+-lib
+-pages
